@@ -1,6 +1,6 @@
 
 ### timetrex/classes/modules/.* 
-All Modules Will Have At Least Two Files 
+All Modules Will Have At Least Two Files <br>
 .*Factory.class (They Get Data from ListFactory, and Proccess them Before Returen it to api) 
 .*RequestListFactory.class (Direct Access To the Database)
 
