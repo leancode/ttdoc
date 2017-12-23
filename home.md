@@ -6,7 +6,7 @@ Each Subject Will Contains Server-Side and Client-Side Details.
 * #### [How To Debug](How-To-Debug)
 * #### How To Create New Modules, View, API 
 * #### How To Create Plugins
-* #### How To Add New Tabs To Exsiting Window 
+* #### [Add New Tabs](Add-New-Tabs)
 
 ## Classes Refreance  (Cleint & Server)
 * #### [File Upload](File-Upload)
