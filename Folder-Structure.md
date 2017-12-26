@@ -1,8 +1,8 @@
 
 ### timetrex/classes/modules/.* 
 All Modules Will Have At Least Two Files <br>
-.*Factory.class (They Get Data from ListFactory, and Proccess them Before Returen it to api) 
-.*RequestListFactory.class (Direct Access To the Database)
+.*Factory.class (They Get Data from ListFactory, and Proccess them Before Returen it to api, and save data to db) 
+.*RequestListFactory.class (This For Fetching Data)
 
 ### timetrex/classes/modules/api
 This Hold All API Routing, They Really Act As Controller (In Laravel) 
