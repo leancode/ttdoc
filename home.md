@@ -4,7 +4,7 @@ Each Subject Will Contains Server-Side and Client-Side Details.
 ## Tutorials 
 * #### [Folder Structure](Folder-Structure)
 * #### [How To Debug](How-To-Debug)
-* #### How To Create New Modules, View, API 
+* #### [Create Fully Functional Module](Create-Fully-Functional-Module)
 * #### How To Create Plugins
 * #### [Add New Tabs](Add-New-Tabs)
 
