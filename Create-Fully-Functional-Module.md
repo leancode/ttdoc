@@ -35,4 +35,3 @@ Let's Explain It Better, And With Each Step There Will Be A Example File
 [Download Factory/ListFactory](#)
 
 
-## Define All Path: 
