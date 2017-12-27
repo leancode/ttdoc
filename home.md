@@ -8,7 +8,8 @@ Each Subject Will Contains Server-Side and Client-Side Details.
 * #### How To Create Plugins
 * #### [Add New Tabs](Add-New-Tabs)
 
-## Classes Refreance  (Cleint & Server)
+## Classes Reference (Cleint & Server)
+* #### [API Server Reference](API-Server-Reference)
 * #### [File Upload](File-Upload)
 * #### [Permission](Permission)
 * #### Alerts & Error Message
